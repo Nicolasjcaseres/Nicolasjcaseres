@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a freelance manual QA Tester
 
-- 🌱 I’m currently learning: advanced JavaScript, Selenium, Cypress and Mocha :)
+- 🌱 I’m currently learning: advanced JavaScript, Java, Cypress and Spring :)
 
 - 👯 I’m looking to collaborate on any project that i can contribute something to
 
