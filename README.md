@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a freelance manual QA Tester
 
-- 🌱 I’m currently learning: advanced Java and Spring :)
+- 🌱 I’m currently learning: Java and Spring :)
 
 - 👯 I’m looking to collaborate on any project that i can contribute something to
 
